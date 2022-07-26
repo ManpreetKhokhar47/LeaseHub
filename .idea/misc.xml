@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/drawable/btn_design.xml" value="0.216" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/drawable/button.xml" value="0.219" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/drawable/button_disable.xml" value="0.263" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/drawable/button_normal.xml" value="0.209" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/drawable/button_pressed.xml" value="0.307" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/drawable/button_selector.xml" value="0.216" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/drawable/button_text_color.xml" value="0.199" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/drawable/edit_text_design.xml" value="0.216" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/drawable/ic_email.xml" value="0.216" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/drawable/title_shape.xml" value="0.216" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_add_property.xml" value="0.2942708333333333" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_detail_enquiry.xml" value="0.3067708333333333" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_detail_information.xml" value="0.21041666666666667" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_enquiries.xml" value="0.31197916666666664" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_landlord.xml" value="0.3234375" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_properties_list.xml" value="0.3067708333333333" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_search_avtivity.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_search_property.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_splash.xml" value="0.2972222222222222" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_tenant.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/activity_view_tenants.xml" value="0.3067708333333333" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/one_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/one_item_lease.xml" value="0.31197916666666664" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/one_item_tenant.xml" value="0.3067708333333333" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/layout/search_panel.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.277" />
+        <entry key="..\:/AndroidStudioProjects/LeaseHub/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.277" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
